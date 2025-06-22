@@ -1,1 +1,1 @@
-# Linear-regression-ML-algorithm
+Python practice from begining
